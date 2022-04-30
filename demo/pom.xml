@@ -39,6 +39,12 @@
 			<version>2.17.0</version>
 		</dependency>
 
+		<dependency>
+			<groupId>javax.inject</groupId>
+			<artifactId>javax.inject</artifactId>
+			<version>1</version>
+		</dependency>
+
 		<!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-to-slf4j -->
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
